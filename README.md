@@ -2,7 +2,6 @@
 
 ![slide1](https://user-images.githubusercontent.com/83681204/132836093-c80aca67-b58d-420b-8155-23d1e54d46ac.jpg)
 
-## AltairCare app can be accessed [here](https://altaircare.onrender.com)
 
 Artificial intelligence is a rapidly developing field with new improvements that happen every day. It allows the automation and simplification of human activities in different industries like agriculture, banking and financial services, healthcare, travel, and more.
 
